@@ -1,0 +1,828 @@
+Uri: http://demo77.profitscripts.tech/
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\index-1.htm
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/?page=news
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\index-2.htm
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/?page=reviews
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\index-3.htm
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/?ref=admin
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\index.htm
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/about/
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\about\index.htm
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/account/images/card/maestrologo.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\account\images\card\maestrologo.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/account/images/card/mirlogo.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\account\images\card\mirlogo.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/account/images/card/mslogo.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\account\images\card\mslogo.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/account/images/card/visalogo.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\account\images\card\visalogo.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/assets/css/authentication/form-2.css?ver=1.5
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\assets\css\authentication\form-2.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/assets/css/elements/alert.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\assets\css\elements\alert.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/assets/css/forms/switches.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\assets\css\forms\switches.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/assets/css/forms/theme-checkbox-radio.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\assets\css\forms\theme-checkbox-radio.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/assets/css/main.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\assets\css\main.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/assets/css/plugins.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\assets\css\plugins.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/assets/css/structure.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\assets\css\structure.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/assets/img/ab-1.jpeg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\assets\img\ab-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/assets/img/arrow-down.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\assets\img\arrow-down.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/assets/js/authentication/form-2.js
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\assets\js\authentication\form-2.js
+Content Type: application/javascript
+
+Uri: http://demo77.profitscripts.tech/assets/js/libs/jquery-3.1.1.min.js
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\assets\js\libs\jquery-3.1.1.min.js
+Content Type: application/javascript
+
+Uri: http://demo77.profitscripts.tech/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://demo77.profitscripts.tech/bootstrap/js/popper.min.js
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\bootstrap\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://demo77.profitscripts.tech/captcha.php
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\captcha.php.html
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: http://demo77.profitscripts.tech/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/css/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://demo77.profitscripts.tech/css/animate.css@ver=7.0.5.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\animate.css@ver=7.0.5.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/css/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demo77.profitscripts.tech/css/fonts/slick.eot@
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\fonts\slick.eot@
+Content Type: 
+
+Uri: http://demo77.profitscripts.tech/css/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/css/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\fonts\slick.ttf
+Content Type: application/font-sfnt
+
+Uri: http://demo77.profitscripts.tech/css/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: http://demo77.profitscripts.tech/css/hyper.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\hyper.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/css/jquery.fancybox.css@ver=7.0.5.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\jquery.fancybox.css@ver=7.0.5.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/css/mobile.css@ver=7.1.4.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\mobile.css@ver=7.1.4.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/css/nouislider.css@ver=7.0.5.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\nouislider.css@ver=7.0.5.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/css/reset.css@ver=7.0.5.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\reset.css@ver=7.0.5.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/css/slick-theme.css@ver=7.0.5.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\slick-theme.css@ver=7.0.5.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/css/slick.css@ver=7.0.5.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\slick.css@ver=7.0.5.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/css/style.css@ver=7.3.0.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css\style.css@ver=7.3.0.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/faq/
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\faq\index.htm
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/favicon.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\favicon.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Bold.eot
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Bold.eot@
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Bold.eot@
+Content Type: 
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Bold.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Bold.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Bold.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Bold.woff
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Bold.woff
+Content Type: application/font-woff
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Bold.woff2.html
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Bold.woff2.html
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Italic.eot
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Italic.eot@
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Italic.eot@
+Content Type: 
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Italic.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Italic.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Italic.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Italic.ttf
+Content Type: application/font-sfnt
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Italic.woff
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Italic.woff
+Content Type: application/font-woff
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Italic.woff2.html
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Italic.woff2.html
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Light.eot
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Light.eot@
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Light.eot@
+Content Type: 
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Light.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Light.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Light.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Light.ttf
+Content Type: application/font-sfnt
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Light.woff
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Light.woff
+Content Type: application/font-woff
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Light.woff2.html
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Light.woff2.html
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Medium.eot
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Medium.eot@
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Medium.eot@
+Content Type: 
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Medium.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Medium.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Medium.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Medium.ttf
+Content Type: application/font-sfnt
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Medium.woff
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Medium.woff
+Content Type: application/font-woff
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Medium.woff2.html
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Medium.woff2.html
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-MediumItalic.eot
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-MediumItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-MediumItalic.eot@
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-MediumItalic.eot@
+Content Type: 
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-MediumItalic.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-MediumItalic.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-MediumItalic.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-MediumItalic.ttf
+Content Type: application/font-sfnt
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-MediumItalic.woff
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-MediumItalic.woff
+Content Type: application/font-woff
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-MediumItalic.woff2.html
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-MediumItalic.woff2.html
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Regular.eot
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Regular.eot@
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Regular.eot@
+Content Type: 
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Regular.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Regular.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Regular.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Regular.woff
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Regular.woff
+Content Type: application/font-woff
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-Regular.woff2.html
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-Regular.woff2.html
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-SemiBold.eot
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-SemiBold.eot@
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-SemiBold.eot@
+Content Type: 
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-SemiBold.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-SemiBold.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-SemiBold.ttf
+Content Type: application/font-sfnt
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-SemiBold.woff
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-SemiBold.woff
+Content Type: application/font-woff
+
+Uri: http://demo77.profitscripts.tech/fonts/Raleway-SemiBold.woff2.html
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\fonts\Raleway-SemiBold.woff2.html
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/img/auth-bg.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\auth-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/avalon_color_light.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\avalon_color_light.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/big-1doc.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\big-1doc.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/big-2doc.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\big-2doc.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/bitcoin-5-5.gif
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\bitcoin-5-5.gif
+Content Type: image/gif
+
+Uri: http://demo77.profitscripts.tech/img/calc-bg.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\calc-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/calc-item.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\calc-item.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/img/companies/biim.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\companies\biim.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/img/companies/fantom.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\companies\fantom.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/img/companies/treasure-hunters.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\companies\treasure-hunters.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/img/contacts.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\contacts.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/faq.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\faq.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/favicon.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\favicon.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/img/features.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\features.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/footer-logo.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\footer-logo.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/how.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\how.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/invest-bg.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\invest-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/invest1.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\invest1.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/img/logo.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/logo2.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\logo2.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/nav-sep.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\nav-sep.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/img/new-user11.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\new-user11.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/img/newspaper.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\newspaper.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/oborot1.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\oborot1.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/img/present.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\present.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/review.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\review.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/slider-image1.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\slider-image1.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/slider-image2.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\slider-image2.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/slider-image3.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\slider-image3.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/slider-image4.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\slider-image4.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/small-1doc.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\small-1doc.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/small-2doc.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\small-2doc.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/spinner.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\spinner.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/steps.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\steps.jpg
+Content Type: image/jpeg
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-about-company.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-about-company.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-address.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-address.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-chevron-down.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-chevron-down.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-close.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-close.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-contacts.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-contacts.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-email.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-email.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-faq.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-faq.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-flag.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-flag.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-home.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-home.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-phone.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-phone.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-tarifs.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-tarifs.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-telegram.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-telegram.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-testimonials.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-testimonials.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-vk.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-vk.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/svg/ico-youtube.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\svg\ico-youtube.svg
+Content Type: image/svg+xml
+
+Uri: http://demo77.profitscripts.tech/img/tarif-bg-new.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\tarif-bg-new.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/img/tarif-last.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\tarif-last.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/img/user-invest1.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\user-invest1.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/img/video-btn.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\video-btn.png
+Content Type: image/png
+
+Uri: http://demo77.profitscripts.tech/js/html5shiv.js@ver=7.0.5
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\js\html5shiv.js@ver=7.0.5
+Content Type: application/x-troff-man
+
+Uri: http://demo77.profitscripts.tech/js/index.js@ver=7.1.3
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\js\index.js@ver=7.1.3
+Content Type: application/x-troff-man
+
+Uri: http://demo77.profitscripts.tech/js/jquery-1.8.3.min.js@ver=7.0.7
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\js\jquery-1.8.3.min.js@ver=7.0.7
+Content Type: application/x-troff-man
+
+Uri: http://demo77.profitscripts.tech/js/jquery.fancybox.js@ver=7.0.7
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\js\jquery.fancybox.js@ver=7.0.7
+Content Type: application/x-troff-man
+
+Uri: http://demo77.profitscripts.tech/js/jquery.spincrement.min.js@ver=7.0.7
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\js\jquery.spincrement.min.js@ver=7.0.7
+Content Type: application/x-troff-man
+
+Uri: http://demo77.profitscripts.tech/js/maskinput.js@ver=7.0.7
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\js\maskinput.js@ver=7.0.7
+Content Type: application/x-troff-man
+
+Uri: http://demo77.profitscripts.tech/js/nouislider.min.js@ver=7.0.7
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\js\nouislider.min.js@ver=7.0.7
+Content Type: application/x-troff-man
+
+Uri: http://demo77.profitscripts.tech/js/scripts.js@ver=7.1.7
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\js\scripts.js@ver=7.1.7
+Content Type: application/x-troff-man
+
+Uri: http://demo77.profitscripts.tech/js/slick.min.js@ver=7.0.7
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\js\slick.min.js@ver=7.0.7
+Content Type: application/x-troff-man
+
+Uri: http://demo77.profitscripts.tech/js/wow.min.js@ver=7.0.7
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\js\wow.min.js@ver=7.0.7
+Content Type: application/x-troff-man
+
+Uri: http://demo77.profitscripts.tech/law/
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\law\index.htm
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/login/
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\login\index.htm
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/news/
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\news\index.htm
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/plugins/highlight/styles/monokai-sublime.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\plugins\highlight\styles\monokai-sublime.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/plugins/perfect-scrollbar/perfect-scrollbar.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\plugins\perfect-scrollbar\perfect-scrollbar.css
+Content Type: text/css
+
+Uri: http://demo77.profitscripts.tech/registration/
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\registration\index.htm
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/reminder/
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\reminder\index.htm
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/reviews/
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\reviews\index.htm
+Content Type: text/html
+
+Uri: http://demo77.profitscripts.tech/vk_parser/images/vk/457241600.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\vk_parser\images\vk\457241600.jpg
+Content Type: image/jpeg
+
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:f9717edffb09d6709c93e1d21cceab8c896de4302c0b02bebd03124da489cbdc&width=100%25&height=100%25&lang=ru_RU&scroll=false
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:400,600,700
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/play/v17/6ae84K2oVqwItm4TOpc.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\s\play\v17\6ae84K2oVqwItm4TOpc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/play/v17/6aez4K2oVqwIjtI.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\s\play\v17\6aez4K2oVqwIjtI.ttf
+Content Type: font/ttf
+
+Uri: https://my.avalon1.expert/img/СRT.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\СRT.jpg
+Content Type: image/jpeg
+
+Uri: https://my.avalon1.expert/img/small-СRT.jpg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\img\small-СRT.jpg
+Content Type: image/jpeg
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/css/all.css
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\css\all.css
+Content Type: text/css
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-light-300.eot
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-light-300.eot?
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-light-300.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-light-300.woff
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://pro.fontawesome.com/releases/v5.7.2/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\releases\v5.7.2\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://static.hypercomments.com/widget/hc/2/1604911089286/img/smiles/smiles.png
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\widget\hc\2\1604911089286\img\smiles\smiles.png
+Content Type: image/png
+
+Uri: https://vk.com/js/api/openapi.js?168
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\js\api\openapi.js
+Content Type: application/x-javascript
+
+Uri: https://vk.com/rtrg?p=VK-RTRG-516113-i8wEM
+File Name: C:\Downloaded Web Sites\demo77.profitscripts.tech\rtrg
+Content Type: image/gif
+
